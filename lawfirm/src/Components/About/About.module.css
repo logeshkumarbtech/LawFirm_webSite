@@ -1,0 +1,61 @@
+.introWrapper {
+  padding: 100px 100px 100px 100px;
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+  align-items: center;
+}
+.about {
+  width: 450px;
+  height: 174px;
+}
+.about > h1 {
+  font-size: 54px;
+  font-weight: 500;
+  line-height: 87px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.aboutSec > h1 {
+  width: 350px;
+  height: 70px;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 52px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.aboutSec > p {
+  width: 475px;
+  height: 87px;
+  opacity: 30%;
+  text-align: left;
+  font-size: 20px;
+}
+
+.wrapper {
+  padding-top: 40px;
+  padding-bottom: 80px;
+  
+}
+
+.verticalLine {
+  border-left: 1px solid var(--color-white);
+  height: 200px;
+  border-color: #6a6a6a;
+}
+
+.cardHeader {
+  padding-top: 100px;
+  padding-bottom: 130px;
+  font-size: 54px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    gap:100px;
+}
