@@ -37,7 +37,6 @@
 .wrapper {
   padding-top: 40px;
   padding-bottom: 80px;
-  
 }
 
 .verticalLine {
@@ -54,8 +53,8 @@
   text-align: center;
 }
 
-.card{
-    display: flex;
-    justify-content: center;
-    gap:50px;
+.card {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
 }
