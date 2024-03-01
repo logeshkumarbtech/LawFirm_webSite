@@ -28,32 +28,32 @@
   width: 276px;
   height: 53px;
   background-color: #e4e4e4;
-  border-top-left-radius: 8px;
-  border-bottom-left-radius: 8px;
-  border-top-right-radius: 0;
-  border-bottom-right-radius: 0;
+  border-top-left-radius: 8px !important;
+  border-bottom-left-radius: 8px !important;
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
   font-style: italic;
-  margin-right: 10px;
+  margin-right: 10px !important;
 }
 .field2 {
     width: 276px;
     height: 53px;
     background-color: #e4e4e4;
-    border-radius: 0;    
+    border-radius: 0 !important;    
     font-style: italic;
-    margin-right: 10px;
+    margin-right: 10px !important;
   }
 
 .btn {
   width: 116px;
   height: 53px;
-  background-color: var(--color-primary);
-  border-top-left-radius: 0;
-  border-bottom-left-radius: 0;
-  border-top-right-radius: 8px;
-  border-bottom-right-radius: 8px;
-  color: black;
-  font-weight: 600;
+  background-color: var(--color-primary) !important;
+  border-top-left-radius: 0 !important;    
+  border-bottom-left-radius: 0 !important;
+  border-top-right-radius: 8px !important;
+  border-bottom-right-radius: 8px !important;
+  color: black !important;
+  font-weight: 600 !important;
 }
 
 .btn:hover {
